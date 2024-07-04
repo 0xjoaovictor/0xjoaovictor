@@ -1,16 +1,13 @@
-## Hi there 👋
+# 0xjoaovpsantos audit reports
 
-<!--
-**0xjoaovpsantos/0xjoaovpsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this repo holds a selection of recent auditing projects i've done that can be shared publicly.
 
-Here are some ideas to get you started:
+### contest highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| protocol | scope | platform | result | report |
+| ---- | ---- | --------- | --------- | --------- |
+| [First Flight #18: T-Swap](https://codehawks.cyfrin.io/c/2024-06-t-swap) | full protocol | codehawks | - | [report](https://github.com/0xjoaovpsantos/audits/blob/main/reports/2024-06-27-First-Flight-18-TSwap.md) |
+
+### availability
+
+dm me [@0xjoaovpsantos](https://x.com/0xjoaovpsantos).
