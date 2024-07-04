@@ -6,7 +6,7 @@ this repo holds a selection of recent auditing projects i've done that can be sh
 
 | protocol | scope | platform | result | report |
 | ---- | ---- | --------- | --------- | --------- |
-| [First Flight #18: T-Swap](https://codehawks.cyfrin.io/c/2024-06-t-swap) | full protocol | codehawks | - | [report](https://github.com/0xjoaovpsantos/audits/blob/main/reports/2024-06-27-First-Flight-18-TSwap.md) |
+| [First Flight #18: T-Swap](https://codehawks.cyfrin.io/c/2024-06-t-swap) | full protocol | codehawks | 32/44 | [report](https://github.com/0xjoaovpsantos/audits/blob/main/reports/2024-06-27-First-Flight-18-TSwap.md) |
 
 ### availability
 
