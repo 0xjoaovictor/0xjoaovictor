@@ -1,6 +1,15 @@
-# 0xjoaovpsantos audit reports
+# 0xjoaovpsantos portfolio
 
-this repo holds a selection of recent auditing projects i've done that can be shared publicly.
+João is the solidity smart contract engineer at [zaros.fi](https://www.zaros.fi/) and a smart contract auditor in the contests.
+
+## protocols 
+- [zaros protocol](https://testnet.app.zaros.fi/)
+  - [zaros-contracts](https://github.com/zaros-labs/zaros-core)
+  - [zaros-token](https://github.com/zaros-labs/zaros-token)
+  - [zaros-nft-council](https://github.com/zaros-labs/zaros-nft-council)
+  - [gZRS](https://github.com/zaros-labs/gZRS)
+
+## audit reports
 
 ### contest highlights
 
