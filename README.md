@@ -1,4 +1,4 @@
-# 0xjoaovpsantos portfolio
+# 0xjoaovictor portfolio
 
 João is the solidity smart contract engineer at [zaros.fi](https://www.zaros.fi/) and a smart contract auditor in the contests.
 
