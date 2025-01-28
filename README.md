@@ -21,4 +21,4 @@ João is the solidity smart contract engineer at [zaros.fi](https://www.zaros.fi
 
 ### availability
 
-dm me [@0xjoaovpsantos](https://x.com/0xjoaovpsantos).
+dm me [@0xjoaovictor](https://x.com/0xjoaovictor).
