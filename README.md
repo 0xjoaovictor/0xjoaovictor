@@ -15,7 +15,7 @@ João is the solidity smart contract engineer at [zaros.fi](https://www.zaros.fi
 
 | protocol | scope | platform | ranking | report |
 | ---- | ---- | --------- | --------- | --------- |
-| [LoopFi](https://code4rena.com/audits/2024-07-loopfi) | full protocol | code4rena | 77/88 | [report](https://github.com/0xjoaovictor/audits/blob/mainreports/2024-07-LoopFi.md) |
+| [LoopFi](https://code4rena.com/audits/2024-07-loopfi) | full protocol | code4rena | 77/88 | [report](https://github.com/0xjoaovictor/audits/blob/main/reports/2024-07-LoopFi.md) |
 
 ### study contest highlights
 
