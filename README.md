@@ -1,8 +1,10 @@
 # 0xjoaovictor portfolio
 
-João is the solidity smart contract engineer at [zaros.fi](https://www.zaros.fi/) and a smart contract auditor in the contests.
+João is the smart contract engineer at [Kaizen Labs](https://www.kaizenlabs.cc/) and a smart contract security researcher in contests.
 
 ## protocols 
+- [illuvium staking v3](https://staking.illuvium.io/)
+  - [staking-contracts-v3](https://github.com/0xKaizenLabs/staking-contracts-v3/tree/main/src)
 - [zaros](https://www.zaros.fi)
   - [zaros-contracts](https://github.com/zaros-labs/zaros-core)
   - [zaros-token](https://github.com/zaros-labs/zaros-token)
