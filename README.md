@@ -5,7 +5,7 @@ Smart Contract Engineer with 2+ years of experience building DeFi protocols, bac
 ## technical skills
 - Smart Contracts: Solidity, Rust, Cairo
 - DeFi Protocols: Staking Systems, AMMs (Uniswap, Aerodrome), Perpetual DEXs, Lending/Borrowing, NFT Marketplaces.
-- languages: Solidity, Rust, Cairo, TypeScript, JavaScript; Portuguese (Native), English (Professional Working).
+- Languages: Solidity, Rust, Cairo, TypeScript, JavaScript; Portuguese (Native), English (Professional Working).
 
 ## notable protocol work 
 - **Illuvium Staking V3 (Ethereum)**: Production staking protocol for ILV token – reward distribution, lock mechanisms, emergency functions
@@ -30,7 +30,6 @@ Smart Contract Engineer with 2+ years of experience building DeFi protocols, bac
 | protocol | scope | platform | ranking | report |
 | ---- | ---- | --------- | --------- | --------- |
 | [LoopFi](https://code4rena.com/audits/2024-07-loopfi) | full protocol | code4rena | 77/88 | [report](https://github.com/0xjoaovictor/audits/blob/main/reports/2024-07-LoopFi.md) |
-| ---- | ---- | --------- | --------- | --------- |
 | [First Flight #20: The Predicter](https://codehawks.cyfrin.io/c/2024-07-the-predicter) | full protocol | codehawks | 15/85 | [report](https://github.com/0xjoaovictor/audits/blob/main/reports/2024-07-25-First-Flight-20-The-Predicter.md) |
 | [First Flight #19: Mondrian Wallet v2](https://codehawks.cyfrin.io/c/2024-07-Mondrian-Wallet_v2) | full protocol | codehawks | 10/24 | [report](https://github.com/0xjoaovictor/audits/blob/main/reports/2024-07-11-First-Flight-Mondrian-Wallet-V2.md) |
 | [First Flight #18: T-Swap](https://codehawks.cyfrin.io/c/2024-06-t-swap) | full protocol | codehawks | 32/44 | [report](https://github.com/0xjoaovictor/audits/blob/main/reports/2024-06-27-First-Flight-18-TSwap.md) |
