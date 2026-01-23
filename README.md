@@ -8,7 +8,7 @@ Smart Contract Engineer with 2+ years of experience building DeFi protocols, bac
 - Languages: Solidity, Rust, Cairo, TypeScript, JavaScript; Portuguese (Native), English (Professional Working).
 
 ## notable protocol work 
-- **Illuvium Staking V3 (Ethereum)**: Production staking protocol for ILV token – reward distribution, lock mechanisms, emergency functions
+- **Illuvium Staking V3 (Base)**: Production staking protocol for ILV token – reward distribution, lock mechanisms, emergency functions
   - Contracts: 
     - StakingVault (ILV): 0x88b5B7d27e5aE0926D31b0C9bc3516376C028cC8
     - StakingVault (LP): 0xAcF7b71620008eF01e001BeaF639Ec060f9193DA
