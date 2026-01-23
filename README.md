@@ -5,6 +5,7 @@ João is the smart contract engineer at [Kaizen Labs](https://www.kaizenlabs.cc/
 ## protocols 
 - [illuvium staking v3](https://staking.illuvium.io/)
   - [staking-contracts-v3](https://github.com/0xKaizenLabs/staking-contracts-v3/tree/main/src)
+- [exeedme - skins protocol](https://skinsprotocol.com/)
 - [zaros](https://www.zaros.fi)
   - [zaros-contracts](https://github.com/zaros-labs/zaros-core)
   - [zaros-token](https://github.com/zaros-labs/zaros-token)
