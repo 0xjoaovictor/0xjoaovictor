@@ -1,26 +1,17 @@
 # 0xjoaovictor portfolio
 
-Smart Contract Engineer with 2+ years of experience building DeFi protocols, backed by 8 years in software engineering. Currently at Kaizen Labs developing production contracts including Illuvium Staking V3 (TVL $2M+) and Exeedme Skins Protocol. Active security researcher on Code4rena and CodeHawks with public audit reports.
+Senior FullStack Software Engineer with 8 years of experience, including 2+ years in blockchain development with Solidity. Built production protocols including Illuvium Staking V3 and Exeedme Skins Protocol. Currently building Skrypta, an event ticketing platform. Experienced in leading teams, defining architecture patterns, and shipping products from MVP to scale.
 
 ## technical skills
-- Smart Contracts: Solidity, Rust, Cairo
-- DeFi Protocols: Staking Systems, AMMs (Uniswap, Aerodrome), Perpetual DEXs, Lending/Borrowing, NFT Marketplaces.
-- Languages: Solidity, Rust, Cairo, TypeScript, JavaScript; Portuguese (Native), English (Professional Working).
+- Frontend: React, React Native, Next.js, Angular, Redux, Styled Components, Tailwind CSS
+- Backend: Node.js, TypeScript, JavaScript, REST APIs, GraphQL
+- Databases: MongoDB, PostgreSQL, MySQL, SQL Server
+- Languages: TypeScript, JavaScript, Solidity, Rust, C#, PHP; Portuguese (Native), English (Professional Working)
 
 ## notable protocol work 
-- **Illuvium Staking V3 (Base)**: Production staking protocol for ILV token – reward distribution, lock mechanisms, emergency functions
-  - Contracts: 
-    - StakingVault (ILV): 0x88b5B7d27e5aE0926D31b0C9bc3516376C028cC8
-    - StakingVault (LP): 0xAcF7b71620008eF01e001BeaF639Ec060f9193DA
-    - L2RevenueDistributorV3: 0xdd5ac0f8Bc0ad15dEAf17903F50E8c356aEcBBc2
-  - Repository: https://github.com/0xKaizenLabs/staking-contracts-v3/tree/main/src
-  - Link: https://staking.illuvium.io/
-- **Exeedme - Skins Protocol (Base)**: NFT marketplace for CS2 gaming items – secure trading escrow, meta-transactions
-  - Contracts:
-    - SkinsNFT: 0x43c39f77CeFDCA0A46AA783B6a25aD2fF1348DF3
-    - Marketplace: 0xabd7b2212dC06BB70F6A2e0f9043375dD2BDa046
-    - MetaTransactionHandler: 0x0175b14944A8B0e0af81af4205A7bE1E906A7630
-  - Link: https://skinsprotocol.com/
+- **Skrypta**: Event ticketing platform for churches and religious organizations in Brazil – fullstack development – [skryptaeventos.com.br](https://www.skryptaeventos.com.br/)
+- **Illuvium Staking V3 (Base)**: Production staking protocol for ILV token – reward distribution, lock mechanisms, emergency functions - [staking.illuvium.io](https://staking.illuvium.io/dashboard)
+- **Exeedme - Skins Protocol (Base)**: NFT marketplace for CS2 gaming items – secure trading escrow, meta-transactions - [skinsprotocol.com](https://skinsprotocol.com/)
 - **Zaros (Arbitrum Sepolia)**: Perpetual DEX – core trading engine, liquidations, oracle integration, governance token system – x.com/zarosfi
 
 ## audit reports
