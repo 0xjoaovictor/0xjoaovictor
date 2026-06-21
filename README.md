@@ -1,6 +1,6 @@
 # 0xjoaovictor portfolio
 
-Senior FullStack Software Engineer with 8 years of experience, including 2+ years in blockchain development with Solidity. Built production protocols including Illuvium Staking V3 and Exeedme Skins Protocol. Currently building Skrypta, an event ticketing platform. Experienced in leading teams, defining architecture patterns, and shipping products from MVP to scale.
+Senior Software Engineer with 8 years of experience building digital products from scratch across different niches — from banking systems and hospital apps to event platforms and Web3 protocols.
 
 ## technical skills
 - Frontend: React, React Native, Next.js, Angular, Redux, Styled Components, Tailwind CSS
@@ -8,7 +8,7 @@ Senior FullStack Software Engineer with 8 years of experience, including 2+ year
 - Databases: MongoDB, PostgreSQL, MySQL, SQL Server
 - Languages: TypeScript, JavaScript, Solidity, Rust, C#, PHP; Portuguese (Native), English (Professional Working)
 
-## notable protocol work 
+## notable work 
 - **Skrypta**: Event ticketing platform for churches and religious organizations in Brazil – fullstack development – [skryptaeventos.com.br](https://www.skryptaeventos.com.br/)
 - **Illuvium Staking V3 (Base)**: Production staking protocol for ILV token – reward distribution, lock mechanisms, emergency functions - [staking.illuvium.io](https://staking.illuvium.io/dashboard)
 - **Exeedme - Skins Protocol (Base)**: NFT marketplace for CS2 gaming items – secure trading escrow, meta-transactions - [skinsprotocol.com](https://skinsprotocol.com/)
